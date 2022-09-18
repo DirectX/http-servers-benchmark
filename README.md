@@ -14,7 +14,7 @@ $ cd nodejs-...
 $ npm start
 ```
 
-### Node JS
+### Go
 
 ```bash
 $ cd go-...
